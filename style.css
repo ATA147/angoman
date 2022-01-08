@@ -1,0 +1,16 @@
+#text1{text-align: center;}
+#text2{text-align: center ;}
+#text3{text-align: center;}
+#text4{text-align: center;}
+table {
+    width:80%;
+    height: 25%;
+    text-align: center;
+   }
+   table,td {
+    border:2px solid #1eb600;
+    font-size: 18px; 
+    font-family: tahoma;
+   }
+   
+table,th{color: #df1c1c;}
